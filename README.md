@@ -1,5 +1,5 @@
 # Alexa-lights
-Control dumb lights using Alexa
+Control lights using Alexa
 
 Uses an ESP-8266 to talk to the Sinric API, and controls appliances connected to the ESP via a relay module.
 
